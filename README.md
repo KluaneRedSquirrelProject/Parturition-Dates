@@ -1,0 +1,1 @@
+This repository describes an approach where I have used a consistent approach to calculate parturition dates from existing data.  The code outputs a csv file that includes part dates for first litters for each squirrel in each year.
